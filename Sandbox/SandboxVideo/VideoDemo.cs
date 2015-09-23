@@ -4,9 +4,9 @@ using System.Windows.Forms;
 
 namespace SandboxVideo
 {
-    public partial class Form1 : Form
+    public partial class VideoDemo : Form
     {
-        public Form1()
+        public VideoDemo()
         {
             InitializeComponent();
             Filters filters = new Filters();
