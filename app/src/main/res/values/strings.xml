@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mark\'d</string>
+    <string name="logo">Logo</string>
+    <string name="roomcode">Room Code</string>
+    <string name="passcode">Pass Code</string>
+    <string name="enter_room">Enter Room</string>
+</resources>
